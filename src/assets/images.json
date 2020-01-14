@@ -1,0 +1,20 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "url": "https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/6/5/2/652a7adb1b_98148_01-intro-773.jpg"
+    },
+    {
+      "id": 3,
+      "url": "https://www.foiresinfo.fr/logos/zebi_luzern_logo_6333.png"
+    },
+    {
+      "id": 4,
+      "url": "https://media.licdn.com/dms/image/C4E0BAQG13_EAWEkEZg/company-logo_200_200/0?e=2159024400&v=beta&t=OxHvCbau_IrMc99re5zGO72hbB4T7S-9AsZnEu1qxrA"
+    }
+  ]
+}

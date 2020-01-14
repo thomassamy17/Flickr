@@ -1,0 +1,10 @@
+<h1>{{title}}</h1>
+<form [formGroup]="form" (ngSubmit)="onSubmit(form.value)">
+  <div>
+      <input id="word" class="input-text " type="text" name="word" [formControl]="form.controls['word']" />
+      <input type="submit" value="Search" [disabled]="!form.valid">
+  </div>
+</form>
+<app-djo [word]="word"></app-djo>
+
+
